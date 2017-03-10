@@ -6,5 +6,6 @@ public class Animal {
 	Animal(String name){
 		this.name=name;
 	System.out.println("dd");
+	System.out.println("ggg");
 	}
 }
