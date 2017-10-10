@@ -1,5 +1,5 @@
 package lesson01;
 
-public class Animal {kkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+public class Animal {
 // Hello 
 }
